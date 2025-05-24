@@ -1,0 +1,9 @@
+hcaptcha-challenger[playwright]
+httpx
+loguru
+pydantic
+pydantic_settings
+typer
+browserforge
+camoufox
+tenacity
