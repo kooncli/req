@@ -7,4 +7,4 @@ typer
 browserforge
 camoufox
 tenacity
-epic_awesome_gamer
+
